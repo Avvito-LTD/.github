@@ -1,6 +1,6 @@
 <header>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Avvito-LTD/.github/refs/heads/main/media/avvito-logo.png" style="width:220px" alt="Avvito Ltd ™ Logo">
+  <img src="https://raw.githubusercontent.com/Avvito-LTD/.github/refs/heads/main/media/avvito-logo.png" style="width:180px" alt="Avvito Ltd ™ Logo">
 </div>
 </header>
 
