@@ -1,6 +1,8 @@
 <header>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Avvito-LTD/.github/refs/heads/main/media/avvito-logo.png" style="width:180px" alt="Avvito Ltd ™ Logo">
+  <a href="https://avvito.net/">
+    <img src="https://raw.githubusercontent.com/Avvito-LTD/.github/refs/heads/main/media/avvito-logo.png" style="width:180px" alt="Avvito Ltd ™ Logo">
+  </a>
 </div>
 </header>
 
@@ -55,4 +57,4 @@ Stay tuned as we continue to expand our offerings and share more resources!
 - **Follow us on:** [Twitter](#), [LinkedIn](#)
 - **Join our community:** [Discord](#)
 - **Subscribe to our channel:** [YouTube](#)
-- **Visit our website:** [Avvito](#)
+- **Visit our website:** [Avvito](https://avvito.net/)
