@@ -1,6 +1,6 @@
 <header>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Avvito-LTD/.github/refs/heads/main/media/avvito-logo.png" style="width:300px" alt="Avvito Ltd ™ Logo">
+  <img src="https://raw.githubusercontent.com/Avvito-LTD/.github/refs/heads/main/media/avvito-logo.png" style="width:260px" alt="Avvito Ltd ™ Logo">
 </div>
 </header>
 
@@ -13,10 +13,14 @@
   and building lasting success.</p>
 </div>
 
+
+
 ## About Us
 
 We specialize in creating practical and results-driven solutions tailored to your unique needs.
 From custom websites that convert to compelling brand identities, we focus on delivering value and measurable impact.
+
+
 
 ## Our Services
 
@@ -28,6 +32,8 @@ From custom websites that convert to compelling brand identities, we focus on de
 
 Let us help you create meaningful connections with your audience and achieve your business goals.
 
+
+
 ## Demo
 
 Explore our work and see what we can achieve for you:
@@ -35,12 +41,16 @@ Explore our work and see what we can achieve for you:
 - [Demo Website 1](#) — A showcase of our website development expertise.
 - [Demo Website 2](#) — Highlights of our design and digital marketing capabilities.
 
+
+
 ## Open-Source Projects
 
 We are committed to contributing to the developer community. Check out our open-source projects:
 
 - [Project 1](#) — Description of an upcoming open-source project.
 - [Project 2](#) — Another exciting open-source project in the works.
+
+
 
 ## Contact Us
 
