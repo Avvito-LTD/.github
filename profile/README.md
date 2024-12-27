@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <h3>Welcome to the GitHub organization of <strong>Avvito Ltd ™</strong></h3>
+  <h2>Welcome to the GitHub organization of <strong>Avvito Ltd ™</strong></h2>
   <p>At Avvito, we are dedicated to empowering individuals and businesses of all sizes to grow and thrive online.
   Our mission is to transform your online presence into a powerful tool for driving more sales, attracting customers,
   and building lasting success.</p>
@@ -15,14 +15,14 @@
 
 
 
-## About Us
+### About Us
 
 We specialize in creating practical and results-driven solutions tailored to your unique needs.
 From custom websites that convert to compelling brand identities, we focus on delivering value and measurable impact.
 
 
 
-## Our Services
+### Our Services
 
 - **Website Development:** Custom, conversion-focused websites that deliver results.
 - **Brand Identity & Design:** Logo design, product design, and complete brand strategies.
@@ -34,7 +34,7 @@ Let us help you create meaningful connections with your audience and achieve you
 
 
 
-## Demo
+### Demo
 
 Explore our work and see what we can achieve for you:
 
@@ -43,7 +43,7 @@ Explore our work and see what we can achieve for you:
 
 
 
-## Open-Source Projects
+### Open-Source Projects
 
 We are committed to contributing to the developer community. Check out our open-source projects:
 
@@ -52,7 +52,7 @@ We are committed to contributing to the developer community. Check out our open-
 
 
 
-## Contact Us
+### Contact Us
 
 Stay tuned as we continue to expand our offerings and share more resources!
 
