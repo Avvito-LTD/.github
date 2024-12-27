@@ -5,11 +5,10 @@
 </header>
 
 <div align="center">
-  <h1>Avvito Ltd ™</h1>
+  <h1>Welcome to the GitHub organization of <strong>Avvito Ltd ™</strong>strong>!</h1>
 </div>
 
 <div align="center">
-  Welcome to the GitHub organization of **Avvito Ltd ™**!
   At Avvito, we are dedicated to empowering individuals and businesses of all sizes to grow and thrive online.
   Our mission is to transform your online presence into a powerful tool for driving more sales, attracting customers,
   and building lasting success.
