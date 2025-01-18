@@ -53,7 +53,7 @@ We are committed to contributing to the developer community. Check out our open-
 
 Stay tuned as we continue to expand our offerings and share more resources!
 
-- **Email:** [info@avvito.net](mailto:info@avvito.net)
+- **Email:** [cantact@avvito.net](mailto:info@avvito.net)
 - **Follow us on:** [Twitter](#), [LinkedIn](#)
 - **Join our community:** [Discord](#)
 - **Subscribe to our channel:** [YouTube](#)
